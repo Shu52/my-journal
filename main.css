@@ -1,4 +1,21 @@
+/*font-family: 'Homemade Apple', cursive; */
 body {
-    background-color: blueviolet;
+    background-image:url("pages.jpg");
     color:goldenrod;
+    font-family: 'Homemade Apple', cursive;
+}
+h1{
+    text-align: center;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+    
+}
+p{
+    color:ivory;
+    text-align: center;
+    background-color: slategray;
+    opacity: 50%;
+    padding: 18px;
+    font-size: 12px;
+     letter-spacing: 10px;
+    
 }
