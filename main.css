@@ -2,9 +2,10 @@
 body {
     background-image:url("pages.jpg");
     color:goldenrod;
-    font-family: 'Homemade Apple', cursive;
+    /* font-family: 'Homemade Apple', cursive; */
 }
-h1{
+h1,h3{
+
     text-align: center;
     text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
     
@@ -15,7 +16,7 @@ p{
     background-color: slategray;
     opacity: 50%;
     padding: 18px;
-    font-size: 12px;
-     letter-spacing: 10px;
+    font-size: 18px;
+    line-height: 1.25em;
     
 }
